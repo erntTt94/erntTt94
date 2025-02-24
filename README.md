@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erntTt94
 - 👀 I’m interested in IT Technologies, Programming, Reading Books, Watching TV Shows and much more :)
-- 🌱 I’m currently learning Front End Development...
+- 🌱 I’m currently learning React...
 - 📫 How to reach me : erkant0308@gmail.com
 
 
